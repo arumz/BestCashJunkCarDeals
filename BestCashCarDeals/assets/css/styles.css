@@ -1,0 +1,12 @@
+
+.fa-phone{
+  color: #6090e0;
+  margin-right:10px;
+}
+.subheading{
+  font-size: 30px;
+}
+div p a[href^="tel:"] {
+  text-decoration: none;
+  color: black;
+}
